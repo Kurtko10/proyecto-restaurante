@@ -17,6 +17,6 @@ El proyecto utiliza HTML, CSS y Bootstrap para construir un sitio web interactiv
 
 ## Lenguajes y Frameworks Utilizados
 
-- **HTML:** ![HTML](https://img.shields.io/badge/HTML-5-orange) Lenguaje de marcado para estructurar el contenido de las páginas web.
+- **HTML:** ![HTML](https://camo.githubusercontent.com/67d051f1cde036b0a277026c6342e0f990c88e49562337ec5af92742df91cea3/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f486b773674667376702e706e67) Lenguaje de marcado para estructurar el contenido de las páginas web. 
 - **CSS:** ![CSS](https://img.shields.io/badge/CSS-3-blue) Lenguaje de estilo para definir la presentación y el diseño.
 - **Bootstrap 5:** ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple) Framework CSS para el desarrollo rápido y la creación de interfaces responsivas.
