@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=TOP%20BURGUER%20![Muestra de la vista index](https://github.com/Kurtko10/proyecto-restaurante/blob/master/img/burger-1487481_640.png)&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=400&height=200)](https://github.com/Akshay090/svg-banners)
 # <font color="red">Top Burguer</font>
 ¡Bienvenido a Top Burguer! Este proyecto es parte de un trabajo académico para un bootcamp de Full Stack Developer y contiene el código fuente del sitio web del restaurante ficticio Top Burguer, especializado en hamburguesas.
 
