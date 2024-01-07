@@ -22,6 +22,10 @@ El proyecto utiliza HTML, CSS y Bootstrap para construir un sitio web interactiv
   ![CSS](https://camo.githubusercontent.com/166a4aef0c3e07286bb0fc1c5422b16a783de5a17bcd506d215b6dcb110b2d5e/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f534a753374666f50542e706e67)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple) Framework CSS para el desarrollo rápido y la creación de interfaces responsivas. ![Bootstrap](https://camo.githubusercontent.com/081dcb5f7314f6b184fcbb1a1ccbec1a5a3b7b85e3e757218bbfe11fc9eb47c3/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f53797463457a6950702e706e67)
 
+## Imagenes
+
+- Las imagenes utilizadas han sido descargadas con licencia libre desde https://pixabay.com y https://www.freepik.es
+
 ## Instalación
 
 Para contribuir al proyecto, sigue estos pasos:
@@ -37,3 +41,7 @@ git clone https://github.com/Kurtko10/proyecto-restaurante.git
 cd proyecto-restaurante
 
 :bulb: **Tip:** Asegúrate de que Bootstrap esté correctamente enlazado.
+
+## Imagenes del proyecto
+
+
