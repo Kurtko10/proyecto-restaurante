@@ -44,4 +44,7 @@ cd proyecto-restaurante
 
 ## Imagenes del proyecto
 
+1. ![Muestra de la vista index](https://github.com/Kurtko10/proyecto-restaurante/blob/master/img/muestraVista.png)
+2. ![Muestra de la vista carta](https://github.com/Kurtko10/proyecto-restaurante/blob/master/img/vistaMenu.png)
+3. ![Muestra de la vista carta](https://github.com/Kurtko10/proyecto-restaurante/blob/master/img/resposive.png)
 

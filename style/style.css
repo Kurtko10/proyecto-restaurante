@@ -193,3 +193,6 @@ opacity: 1;
 transition: 1s;
 border-color: #ff1900;
 }
+.formulario{
+    border: #ff1900 2px outset;
+}
